@@ -1,2 +1,2 @@
 hello
-git_pullS
+git_pull
